@@ -1,4 +1,4 @@
-# Chat UI
+# Unified-Api-Chatbot
 
 This chat application is built on Next.js and incorporates AI capabilities. It leverages Supabase for user authentication, data management, and real-time messaging. OpenAI and Mistral AI are utilized for response generation and can be selected interchangeably in the chat.
 
